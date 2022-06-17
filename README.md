@@ -1,51 +1,51 @@
 # UFOs
 Dynamic web page with table from JavaScript array
 
-* Overview of Project
+# Overview of Project
 
 This project created to help journalist who write about UFO. Unidentified flying objects are very fascinating topic and she needed the data about it stored in useful and comfortable way. I created for her site with the dynamic data.
 
 I built a table using UFO data stored in a JavaScript array, created filters to make this table fully dynamic, meaning that it react to user input. It is allowing users to filter for multiple criteria at the same time: date, city, state, country, and shape. Originally data was stored in the JavaScript file as array:
 
-![array.png](/Images/array.png) 
+![array.png](static/Images/array.png) 
 
 Then I placed the table into an HTML file for easy viewing. I customized my webpage using Bootstrap and CSS, and equip my table with several fully functional filters that will allow users to interact with our visualizations. 
 
-* Results
+# Results
 
 Now we have the new fully functional webpage, where anybody can search UFO events by date, city, state, country and even shape of UFO object. This webpage has attention-grabing header, short article and visually appealing presentation of data.
 
-![header.png](/Images/header.png) 
+![header.png](static/Images/header.png) 
 
 The full table is really long, that is why we need filters:
 
-![table_full.png](/Images/table_full.png) 
+![table_full.png](static/Images/table_full.png) 
 
 We can sort data by different filters:
 
-** Date
+ * Date
 
-![table_date.png](/Images/table_date.png) 
+![table_date.png](static/Images/table_date.png) 
 
-** City
+ * City
 
-![table_city.png](/Images/table_city.png) 
+![table_city.png](static/Images/table_city.png) 
 
-** State
+ * State
 
-![table_state.png](/Images/table_state.png) 
+![table_state.png](static/Images/table_state.png) 
 
-** Shape
+ * Shape
 
-![table_shape.png](/Images/table_shape.png) 
+![table_shape.png](static/Images/table_shape.png) 
 
 We can use any combinations of filters as well, as example:
 
-** Date, country and shape
+ * Date, country and shape
 
-![table_country.png](/Images/table_country.png) 
+![table_country.png](static/Images/table_country.png) 
 
-* Summary
+# Summary
 
 The one drawback of this new design that we cannot use periods of time - as example, during the certain year. But it could be improved if needed.
 
